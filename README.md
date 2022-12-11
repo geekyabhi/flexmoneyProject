@@ -15,7 +15,7 @@
 ## Setup Instructions
 
 -   S1 Clone the project.
--   S2 Create a file .env in the root folder of all four services.ie ./Payments/.env , ./Customer/.env.
+-   S2 Create a file .env in the root folder in the given 2 services.ie ./Payments/.env , ./Customer/.env (Env files are provided in the above link on google drive).
 -   S3 Make sure that docker is installed in the system.
 -   S3 Make sure that PORT 5000 , 5001 , 5002 , 3000 , 27017 are free in the system .
 -   S4 Open terminal in root folder of the project where docker-compose.yml file is present and run following commands.
