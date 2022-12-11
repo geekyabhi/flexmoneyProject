@@ -147,9 +147,9 @@ const Plans = React.memo(() => {
 				} else alert("OOPS! Your Payment is Declined,Pls Try Again");
 			},
 			prefill: {
-				name: "Soumya Dey",
-				email: "SoumyaDey@example.com",
-				contact: "9999999999",
+				name: `${userInfo.name}`,
+				email: `${userInfo.email}`,
+				contact: `${userInfo.phone}`,
 			},
 			notes: {
 				address: "Soumya Dey Corporate Office",

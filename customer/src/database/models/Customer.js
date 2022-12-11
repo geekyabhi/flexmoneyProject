@@ -18,7 +18,7 @@ const CustomerSchema = new Schema(
 		phone: {
 			type: String,
 			unique: true,
-			match: /^(\()?\d{3}(\))?(-|\s)?\d{3}(-|\s)\d{4}$/,
+			match: /^(\[- ]?)?\d{10}$/,
 			required: [true, "Not a valid phone number"],
 		},
 		email: {
