@@ -122,7 +122,7 @@ const Plans = React.memo(() => {
 		const options = {
 			key: apiKey.current, // Enter the Key ID generated from the Dashboard
 			currency: "INR",
-			name: "API MONITORING SYSTEM",
+			name: "Flex Money Payment",
 			description: "Test Transaction",
 			// image: { logo },
 			order_id: razorpay_order_id,
