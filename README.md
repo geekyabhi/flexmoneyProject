@@ -172,4 +172,14 @@ POST /payment/complete
 }
 ```
 
+
+### Screenshots
+![Screenshot from 2022-12-12 01-08-47](https://user-images.githubusercontent.com/55759980/206925085-37c2f934-bb60-4dd1-9122-6a99fef1fd0b.png)
+![Screenshot from 2022-12-12 01-09-16](https://user-images.githubusercontent.com/55759980/206925090-2c15bd1e-49aa-41b3-8eba-55f2061c6257.png)
+![Screenshot from 2022-12-12 01-09-31](https://user-images.githubusercontent.com/55759980/206925100-b646021c-1eba-42e7-b9b8-572e48a78d3c.png)
+![Screenshot from 2022-12-12 01-10-29](https://user-images.githubusercontent.com/55759980/206925105-0458305e-78a2-451b-b36c-334b84cc7aae.png)
+![Screenshot from 2022-12-12 01-08-29](https://user-images.githubusercontent.com/55759980/206925108-221322f0-f540-4970-8cbe-b5847bfba8bd.png)
+
+
+
 ---
